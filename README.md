@@ -10,10 +10,6 @@ This is a full stack e-commerce web application that was built using REACT. Appl
 * Redux
 
 
-## Screenshot
-![screenshot of startpage](client/src/assets/images/startpage.png)
-
-
 ## User Story
 AS a senior engineer working on an e-commerce platform
 I WANT my platform to use Redux to manage global state instead of the Context API
